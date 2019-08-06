@@ -17,17 +17,27 @@
 用例图是指由参与者（Actor）、用例（Use Case），边界以及它们之间的关系构成的用于描述系统功能的视图。用例图（User Case）是外部用户（被称为参与者）所能观察到的系统功能的模型图。用例图是系统的蓝图。用例图呈现了一些参与者，一些用例，以及它们之间的关系，主要用于对系统、子系统或类的功能行为进行建模。
 
 # 用例图的基本符号与元素？
+ ![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-1.png?raw=true)
  
 参与者（Actor）
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-2.png?raw=true)
  
 用例（Use Case）
- 
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-3.png?raw=true)
+
 包含关系（Include）
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-4.png?raw=true)
  
 扩展/延伸关系（Extend）
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-5.png?raw=true)
  
 关联关系（Association）
 
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-6.png?raw=true)
  
 泛化关系（Generalization）
 
@@ -57,6 +67,14 @@
 粒度达到子用例级别，并用 include 和 exclude 关联它们
 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
 尽可能识别外部系统和服务
+- 携程
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-7.png?raw=true)
+
+- 去哪儿
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-8.png?raw=true)
+
 然后，回答下列问题：
 
 # 为什么相似系统的用例图是相似的？
@@ -73,5 +91,9 @@
 在用例图中对创新用例使用某种颜色进行高亮标记。
 
 # 请使用 SCRUM 方法，选择一个用例图，编制某定旅馆开发的需求（backlog）开发计划表
+
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-9.png?raw=true)
+
 # 根据任务4，参考使用用例点估算软件成本，给出项目用例点的估算
 
+![](https://github.com/gongwj7/software-analysis-design/blob/master/hw4-10.png?raw=true)
