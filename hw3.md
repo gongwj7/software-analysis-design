@@ -1,5 +1,5 @@
 # 简述瀑布模型、增量模型、螺旋模型（含原型方法）的优缺点（从项目特点、风险特征、人力资源利用角度思考）
-![avatar](gongwj7/software-analysis-design/hw3-1.png)
+![img](software-analysis-design/hw3-1.png)
 
 # 简述统一过程三大特点，与面向对象的方法有什么关系？
 - 统一过程的三大特点是：
