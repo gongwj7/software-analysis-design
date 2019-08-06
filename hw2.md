@@ -30,5 +30,5 @@ UML是一种开放的方法，用于说明、可视化、构建和编写一个�
 请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）
 选择教材18-8类图和enterItem设计有关的部分DCD，静态视图
 
-![](gongwj7/software-analysis-design/hw2-1.png)
+![](/gongwj7/software-analysis-design/hw2-1.png)
 
